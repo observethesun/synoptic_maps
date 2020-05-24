@@ -24,7 +24,7 @@ to complete the process.
 For CHs segmentation we apply a neural network model trained on solar disk images. Visit the repository
 [coronal_holes](https://github.com/observethesun/coronal_holes) to prepare the model.
 It is recommended to use the same source of solar disk images for model training and synoptic maps
-construction. Follow the notebook [2.CHs_segmentation](./notebooks/1.[2.CHs_segmentation].ipynb) 
+construction. Follow the notebook [2.CHs_segmentation](./notebooks/2.CHs_segmentation.ipynb) 
 to apply the model for synoptic maps.
 
 
