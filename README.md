@@ -1,4 +1,4 @@
-[![Python](https://img.shields.io/badge/python->=3.7-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/python-3-blue.svg)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-1.4-orange.svg)](https://tensorflow.org)
 
 ## Construction of synoptic maps and coronal holes segmentation
