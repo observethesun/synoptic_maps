@@ -9,7 +9,7 @@ This repository contains the source code to reproduce coronal holes segmentation
 
 Clone the repository with its submodules
 ```
-git clone -r https://github.com/observethesun/synoptic_maps.git
+git clone --recursive https://github.com/observethesun/synoptic_maps.git
 ``` 
 
 ### Usage
