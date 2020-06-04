@@ -5,6 +5,11 @@
 
 This repository contains the source code to reproduce coronal holes segmentation in synoptic maps following the paper [Machine-learning approach to identification of coronal holes in solar disk images and synoptic maps]().
 
+### Online catalogue
+
+Dataset of SDO/AIA 193 Angstrom and CHs synoptic maps is available online at [https://sun.njit.edu/coronal_holes/](https://sun.njit.edu/coronal_holes/). Feel free
+to download and explore it in your research.
+
 ### Installation
 
 Clone the repository with its submodules
