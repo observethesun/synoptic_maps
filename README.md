@@ -23,13 +23,13 @@ The code is based on [helio](https://github.com/observethesun/helio) framework. 
 
 To start building synoptic maps you will need a dataset of solar disk images in JPEG or FITS formats.
 Note that for JPEG images there will be required additional information on solar disk location.
-Follow the steps in the notebook [1.Make_synoptic_maps](./notebooks/1.Make_synoptic_maps.ipynb) 
+Follow the steps in the notebook [Make_synoptic_maps](./notebooks/1.Make_synoptic_maps.ipynb) 
 to complete the process.
 
 For CHs segmentation we apply a neural network model trained on solar disk images. Visit the repository
 [coronal_holes](https://github.com/observethesun/coronal_holes) to prepare the model.
 It is recommended to use the same source of solar disk images for model training and synoptic maps
-construction. Follow the notebook [2.CHs_segmentation](./notebooks/2.CHs_segmentation.ipynb) 
+construction. Follow the notebook [CHs_segmentation](./notebooks/2.CHs_segmentation.ipynb) 
 to apply the model for synoptic maps.
 
 
