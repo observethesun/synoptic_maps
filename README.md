@@ -3,7 +3,7 @@
 
 ## Construction of synoptic maps and coronal holes segmentation
 
-This repository contains the source code to reproduce coronal holes segmentation in synoptic maps following the paper [Machine-learning approach to identification of coronal holes in solar disk images and synoptic maps]().
+This repository contains the source code to reproduce coronal holes segmentation in synoptic maps following the paper [Machine-learning approach to identification of coronal holes in solar disk images and synoptic maps](https://arxiv.org/abs/2006.08529).
 
 ### Online catalogue
 
@@ -36,5 +36,5 @@ to apply the model for synoptic maps.
 ### Citing this work
 
 ```
-Illarionov E., Kosovichev А., Tlatov A., 2020.
+Illarionov E., Kosovichev А., Tlatov A. 2020, arXiv:2006.08529
 ```
